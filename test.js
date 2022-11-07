@@ -1,4 +1,4 @@
 if(test > 0)
 {
-  alert("test");
+  alert("test2");
 }
